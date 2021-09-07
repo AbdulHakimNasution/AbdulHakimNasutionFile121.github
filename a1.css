@@ -1,0 +1,35 @@
+body {
+    background-image: url('view3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.access1{
+    background-color: oldlace;
+}
+.access2{
+    background-image: url("view1.jpg");
+    width: 35%;
+
+}
+li {
+    font-style: oblique;
+    font-size: 17px;
+    color: goldenrod;
+}
+p{
+    font-style: initial;
+    font-size: 17px;
+    color:whitesmoke ;
+}
+p2{
+    font-style: inherit;
+    font-size: 17px;
+    color:rgb(192, 192, 192) ;
+
+}
+p3 {
+    font-style: oblique;
+    background-color: skyblue;
+    font-size: 17px;
+    color: rgb(60, 32, 218);
